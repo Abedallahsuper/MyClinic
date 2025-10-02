@@ -18,6 +18,7 @@ import com.example.myclinic.fragments.ProfileFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
 
+// Marked
 public class MainActivity extends AppCompatActivity {
 
     private BottomNavigationView bottomNavigationView;
